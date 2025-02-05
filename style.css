@@ -1,0 +1,129 @@
+body{
+    background-image: url("back.jpg");
+    background-size: cover;
+}
+.heal {
+    color: white;   
+    font-style: initial;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 15px;
+    text-align: justify;
+    
+
+}
+.heali{
+    color: white;   
+    font-style: initial;
+    border-radius: 10px 5px 10px ;
+    color: rgb(95, 95, 253);
+}
+
+.href{
+    background-position: bottom left;
+    color: rgb(204, 202, 196);
+    width:100%;
+    
+    
+}
+*h1{
+    color: white;
+    font-style: normal;
+    display: flex;
+}
+.imag{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+
+}
+em{
+    color: black;
+}
+
+#section1{
+    width: 9cm;
+    background-color: rgb(205, 208, 209);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+
+main{
+    display: flex;
+    width: 23cm;
+    margin: auto;
+
+}
+ .icone{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;  
+    display: flex;  
+    flex-direction:column;
+ }
+.right{
+    display: flex;  
+}
+
+
+*p{
+color: white;
+}
+.sect1 p{
+    color: rgb(161, 203, 250);
+    font-family: 'Times New Roman', Times, serif;
+
+   
+}
+.href a{
+    color: rgb(186, 196, 250);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: lightblue;
+}
+.salutation{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align:center ;
+}
+.hate{
+    width: 15cm;
+    align-items: center;
+    background-color:rgb(243, 243, 243);
+    color: rgb(1, 8, 36);
+    padding: 10px;
+}
+.contact{
+    background-color:rgb(44, 43, 43) ;
+    color: white;
+    padding: 2PX;
+    text-align: center;
+}
+.dav{
+    display: flex;
+
+}
+.s{
+    text-align: center;
+}
+.group{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.group-date{
+    display: inline; 
+    
+}
+.group-text{
+    margin-left: 20px;
+}
